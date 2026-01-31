@@ -1,10 +1,53 @@
-This repository contains Python programs organized for learning and practice.
-It includes:
-- Basics: Hello World, Variables, Input/Output, Loops, Functions, If-Else, Prime-Number, dateTime module, string-methods basics.
-- Data Structures: Lists, Tuples, Dictionaries, Sets.
-- Functions: Take nothing retrun nothing, Take nothing return something, Take soemthing return nothing, Take soemthing return nothing, even odd with different functions type.
-- MySQL: connecting python with MySQL, Creating Database using python in MySQL, Creating table in MySQL using pyhton, Fetching data from a table any database using python.
-- String: basic string functions like find, replace and count, upper and lower search.
-- Object-Oriented Programming: Classes, Objects, Inheritance, Inheritence example, Fetching data through oops programming from MySQL.
-- Projects: Mini projects and games like Calculator, Number Guessing Game, Rock-Paper-Scissors
+This repository contains Python programs organized for **learning and practice**.  
+It covers Python fundamentals, data structures, OOP concepts, database connectivity, and small projects.
 
+---Contents---
+
+Basics:
+- Hello World
+- Variables
+- Input / Output
+- Conditional statements (if-else)
+- Loops
+- Functions
+- Prime Number program
+- `datetime` module
+- Basic string methods
+
+Data Structures:
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+
+Functions:
+- Take nothing, return nothing
+- Take nothing, return something
+- Take something, return nothing
+- Take something, return something
+- Even–Odd programs using different function types
+
+Strings:
+- String search
+- Replace and count
+- Uppercase and lowercase operations
+
+Object-Oriented Programming (OOP):
+- Classes and Objects
+- Inheritance
+- Inheritance examples
+- Fetching data from MySQL using OOP concepts
+
+MySQL with Python:
+- Connecting Python with MySQL
+- Creating a database using Python
+- Creating tables using Python
+- Fetching data from MySQL tables
+
+Mini Projects:
+- Calculator
+- Number Guessing Game
+- Rock–Paper–Scissors
+  
+Purpose:
+This repository is meant for practice, revision, and building strong Python fundamentals.
