@@ -48,6 +48,8 @@ Mini Projects:
 - Calculator
 - Number Guessing Game
 - Rock–Paper–Scissors
+- Student Result System
   
 Purpose:
 This repository is meant for practice, revision, and building strong Python fundamentals.
+
